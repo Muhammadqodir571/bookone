@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('img/1.jpg');
+    background-size: cover;
+    background-position:center;
+
+}
+.container{
+    margin:0;
+    padding: 0;
+    align-items: center;
+    position: relative ;
+    width: 100%;
+}
+.box{
+    padding:0;
+    margin-top:10%;
+    width: 100%;
+    
+    
+}
+h1{
+    margin-top: 30px;
+    color: #e71717;
+    text-decoration: none;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 30px;
+}
+.boxuser{
+    padding-left: 5%;
+    margin: 0;
+    align-items: center;
+    width: max-content;
+}
+.form-floating{
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+.form-check-label{
+    color: rgb(255, 136, 0);
+    font-size: 2rem;
+    font: 1em sans-serif;
+}
+label{
+    color: rgb(255, 208, 196);
+    margin: auto;
+    padding: auto;
+    text-decoration: none;
+    
+}
